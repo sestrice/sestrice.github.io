@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sestrice</title>
+    <title>Sestrice on sestrice.casa</title>
     <link>http://sestrice.casa/</link>
-    <description>Recent content on Sestrice</description>
+    <description>Recent content in Sestrice on sestrice.casa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 21:33:17 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 10:00:00 +0200</lastBuildDate>
     
 	<atom:link href="http://sestrice.casa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Points of interest</title>
-      <link>http://sestrice.casa/posts/pois/</link>
-      <pubDate>Fri, 26 Jul 2019 21:33:17 +0200</pubDate>
-      
-      <guid>http://sestrice.casa/posts/pois/</guid>
-      <description>POI&amp;rsquo;s Let me share some random POI’s, locations and ideas to help you in the area. Links in the text below should take you to the map.
-How to get to the beach? When you leave the house go to the right (with the house on your back). After two houses there are stairs on the right.
-Take the stairs down, cross the street. You will see Pizzeria More on the left.</description>
-    </item>
-    
-    <item>
-      <title>Apartment 1 (upper)</title>
+      <title>Apartment 1</title>
       <link>http://sestrice.casa/posts/a1/</link>
-      <pubDate>Tue, 23 Jul 2019 10:45:41 +0200</pubDate>
+      <pubDate>Sat, 27 Jul 2019 10:00:00 +0200</pubDate>
       
       <guid>http://sestrice.casa/posts/a1/</guid>
       <description>Dear Guest,
@@ -40,6 +29,36 @@ WI-FI network name: Marija
 password: 12345678
 Parking There is free parking in front of house. Please, park your car along the house.
 Checkout Please let me know one evening before the time you wish to checkout.</description>
+    </item>
+    
+    <item>
+      <title>Apartment 2</title>
+      <link>http://sestrice.casa/posts/a2/</link>
+      <pubDate>Sat, 27 Jul 2019 10:00:00 +0200</pubDate>
+      
+      <guid>http://sestrice.casa/posts/a2/</guid>
+      <description>Dear Guest,
+Welcome to Sestrice!
+First, thank you for booking my place!
+Below are some basic information. For more please check POI&amp;rsquo;s page.
+Hope you’ll have wonderful stay and don’t hesitate to contact me.
+I am available via Booking, phone +39598482370 or WhatsUp.
+Best regards,
+Marija
+WI-FI network name: Marija
+password: 12345678
+Parking Please, park your car 50m far from house (direction ahead, on right side of hill ) on parking place.</description>
+    </item>
+    
+    <item>
+      <title>Points of interest</title>
+      <link>http://sestrice.casa/posts/pois/</link>
+      <pubDate>Fri, 26 Jul 2019 21:33:17 +0200</pubDate>
+      
+      <guid>http://sestrice.casa/posts/pois/</guid>
+      <description>POI&amp;rsquo;s Let me share some random POI’s, locations and ideas to help you in the area. Links in the text below should take you to the map.
+How to get to the beach? When you leave the house go to the right (with the house on your back). After two houses there are stairs on the right.
+Take the stairs down, cross the street. You will see Pizzeria More on the left.</description>
     </item>
     
   </channel>
